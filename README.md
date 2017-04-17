@@ -6,7 +6,7 @@
 
 ---
 
-#generator-cg-angular
+# generator-cg-angular
 
 >Yeoman Generator for Enterprise Angular Projects
 
